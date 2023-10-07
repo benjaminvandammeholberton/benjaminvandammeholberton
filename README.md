@@ -12,9 +12,11 @@ I'm Benjamin, currently a student at Holberton School in Laval (France), learnin
 
 Here are some of the projects I've been working on:
 
-- [Project 1](https://github.com/benjaminvandammeholberton/portfolio_GreenhouseCompanion_V2): Smart greenhouse management web app
-- [Project 2]([link_to_project_2](https://github.com/benjaminvandammeholberton/holbertonschool-simple_shell)): simple command-line interface used to interact with the operating system
-- [Project 3]([link_to_project_3](https://github.com/benjaminvandammeholberton/static-website_ChezVous-restaurant)): Static website made for a restaurant in Laval.
+- [Web Application](https://github.com/benjaminvandammeholberton/portfolio_GreenhouseCompanion_V2): Greenhouse Companion - A garden assistant and automation web application 
+- [Full Website](https://github.com/benjaminvandammeholberton/holbertonschool-AirBnB_clone_v4): AirBnB clone - Support for learning basics of front-end and back-end development. 
+- [Command-Line Interface]([(https://github.com/benjaminvandammeholberton/holbertonschool-simple_shell)): Simple Shell - A command-line interface used to interact with the operating system
+- [Static website]([(https://github.com/benjaminvandammeholberton/static-website_ChezVous-restaurant)): Chez Vous - A static website for a restaurant in Saint Berthevin.
+- [Static website](https://github.com/benjaminvandammeholberton/static-website_les3petitscochons-restaurant): Les 3 Ptits Cochons - A static website for a restaurant in Laval.
 
 Feel free to explore my repositories to see more of my work!
 
