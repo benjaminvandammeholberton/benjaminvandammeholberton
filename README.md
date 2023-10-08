@@ -10,8 +10,8 @@ I'm Benjamin, currently a student at Holberton School in Laval (France), learnin
 
 #### Skills and Tools
 
-- Programming Languages: Bash, C, Python, HTML, CSS, SCSS, JavaScript
-- Tools: GitHub, Postman, DigitalOcean, Trello, VS Code, Arduino IDE
+- Languages: Bash, C, Python, HTML, CSS, SCSS, JavaScript, SQL
+- Tools: GitHub, Postman, DigitalOcean, Trello, VS Code, Arduino IDE, Ubuntu
 
 #### Projects
 
