@@ -16,7 +16,7 @@ I'm Benjamin, currently a student at Holberton School in Laval (France), learnin
 
 #### Highlighted Project
 
-🌿 My most significant project to date is a web application for managing vegetable gardens. It's crafted with FastAPI, MongoDB, and JavaScript to provide intuitive and efficient garden management solutions. You can explore it [here](https://github.com/benjaminvandammeholberton/Garden-Companion_API).
+🌿 My most significant project to date is a web application for managing vegetable gardens. It's crafted with FastAPI, MongoDB, and JavaScript to provide intuitive and efficient garden management solutions. You can explore the [backend](https://github.com/benjaminvandammeholberton/Garden-Companion_API) and the [frontend](https://github.com/benjaminvandammeholberton/Garden-Companion_frontend) parts.
 
 #### Let's Connect
 
