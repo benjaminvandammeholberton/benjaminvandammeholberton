@@ -1,6 +1,6 @@
 ### Hi there! 💻
 
-I'm Benjamin, currently a student at Holberton School in Laval (France), learning the ropes of computer programming. Welcome to my GitHub profile!
+I'm Benjamin, currently a student at Holberton School in Laval (France), learning web development. Welcome to my GitHub profile!
 
 #### About Me
 
