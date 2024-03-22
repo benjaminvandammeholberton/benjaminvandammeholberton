@@ -14,7 +14,7 @@ I'm Benjamin, currently a student at Holberton School in Laval (France), learnin
 - Frameworks: Flask, FastAPI, Bootstrap, TailwindCSS, REACT 
 - Tools: Git, GitHub, Postman, DigitalOcean, Trello, VS Code, Arduino IDE, Ubuntu, MacOS
 
-### Highlighted Project
+#### Highlighted Project
 
 🌿 My most significant project to date is a web application for managing vegetable gardens. It's crafted with FastAPI, MongoDB, and JavaScript to provide intuitive and efficient garden management solutions. You can explore it [here](https://github.com/benjaminvandammeholberton/Garden-Companion_API).
 
